@@ -1,0 +1,2104 @@
+{
+    "data": [
+        {
+            "barId": 1,
+            "productId": 1,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 2,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 3,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 4,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 5,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 6,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 7,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 8,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 9,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 10,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 11,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 12,
+            "currentPrice": 499
+        },
+        {
+            "barId": 1,
+            "productId": 13,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 14,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 15,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 16,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 17,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 18,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 19,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 20,
+            "currentPrice": 499
+        },
+        {
+            "barId": 1,
+            "productId": 21,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 22,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 23,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 24,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 25,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 26,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 27,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 28,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 29,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 30,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 31,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 32,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 33,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 34,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 35,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 36,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 37,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 38,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 39,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 40,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 41,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 42,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 43,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 44,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 45,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 46,
+            "currentPrice": 499
+        },
+        {
+            "barId": 1,
+            "productId": 47,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 48,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 49,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 50,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 51,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 52,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 53,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 54,
+            "currentPrice": 499
+        },
+        {
+            "barId": 1,
+            "productId": 55,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 56,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 57,
+            "currentPrice": 499
+        },
+        {
+            "barId": 1,
+            "productId": 58,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 59,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 60,
+            "currentPrice": 359
+        },
+        {
+            "barId": 1,
+            "productId": 61,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 62,
+            "currentPrice": 459
+        },
+        {
+            "barId": 1,
+            "productId": 63,
+            "currentPrice": 469
+        },
+        {
+            "barId": 1,
+            "productId": 64,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 65,
+            "currentPrice": 399
+        },
+        {
+            "barId": 1,
+            "productId": 66,
+            "currentPrice": 369
+        },
+        {
+            "barId": 1,
+            "productId": 67,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 68,
+            "currentPrice": 349
+        },
+        {
+            "barId": 1,
+            "productId": 69,
+            "currentPrice": 449
+        },
+        {
+            "barId": 1,
+            "productId": 70,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 31,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 32,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 33,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 34,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 35,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 36,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 37,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 38,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 39,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 40,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 41,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 42,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 43,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 44,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 45,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 46,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 47,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 48,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 49,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 50,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 51,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 52,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 53,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 54,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 55,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 56,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 57,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 58,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 59,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 60,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 61,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 62,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 63,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 64,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 65,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 66,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 67,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 68,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 69,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 70,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 71,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 72,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 73,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 74,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 75,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 76,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 77,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 78,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 79,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 80,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 81,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 82,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 83,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 84,
+            "currentPrice": 469
+        },
+        {
+            "barId": 2,
+            "productId": 85,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 86,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 87,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 88,
+            "currentPrice": 499
+        },
+        {
+            "barId": 2,
+            "productId": 89,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 90,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 91,
+            "currentPrice": 449
+        },
+        {
+            "barId": 2,
+            "productId": 92,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 93,
+            "currentPrice": 369
+        },
+        {
+            "barId": 2,
+            "productId": 94,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 95,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 96,
+            "currentPrice": 359
+        },
+        {
+            "barId": 2,
+            "productId": 97,
+            "currentPrice": 459
+        },
+        {
+            "barId": 2,
+            "productId": 98,
+            "currentPrice": 399
+        },
+        {
+            "barId": 2,
+            "productId": 99,
+            "currentPrice": 349
+        },
+        {
+            "barId": 2,
+            "productId": 100,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 61,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 62,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 63,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 64,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 65,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 66,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 67,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 68,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 69,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 70,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 71,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 72,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 73,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 74,
+            "currentPrice": 499
+        },
+        {
+            "barId": 3,
+            "productId": 75,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 76,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 77,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 78,
+            "currentPrice": 399
+        },
+        {
+            "barId": 3,
+            "productId": 79,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 80,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 81,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 82,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 83,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 84,
+            "currentPrice": 499
+        },
+        {
+            "barId": 3,
+            "productId": 85,
+            "currentPrice": 399
+        },
+        {
+            "barId": 3,
+            "productId": 86,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 87,
+            "currentPrice": 399
+        },
+        {
+            "barId": 3,
+            "productId": 88,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 89,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 90,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 91,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 92,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 93,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 94,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 95,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 96,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 97,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 98,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 99,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 100,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 101,
+            "currentPrice": 499
+        },
+        {
+            "barId": 3,
+            "productId": 102,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 103,
+            "currentPrice": 399
+        },
+        {
+            "barId": 3,
+            "productId": 104,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 105,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 106,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 107,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 108,
+            "currentPrice": 499
+        },
+        {
+            "barId": 3,
+            "productId": 109,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 110,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 111,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 112,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 113,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 114,
+            "currentPrice": 499
+        },
+        {
+            "barId": 3,
+            "productId": 115,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 116,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 117,
+            "currentPrice": 399
+        },
+        {
+            "barId": 3,
+            "productId": 118,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 119,
+            "currentPrice": 349
+        },
+        {
+            "barId": 3,
+            "productId": 120,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 121,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 122,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 123,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 124,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 125,
+            "currentPrice": 469
+        },
+        {
+            "barId": 3,
+            "productId": 126,
+            "currentPrice": 449
+        },
+        {
+            "barId": 3,
+            "productId": 127,
+            "currentPrice": 459
+        },
+        {
+            "barId": 3,
+            "productId": 128,
+            "currentPrice": 359
+        },
+        {
+            "barId": 3,
+            "productId": 129,
+            "currentPrice": 369
+        },
+        {
+            "barId": 3,
+            "productId": 130,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 91,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 92,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 93,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 94,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 95,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 96,
+            "currentPrice": 449
+        },
+        {
+            "barId": 4,
+            "productId": 97,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 98,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 99,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 100,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 101,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 102,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 103,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 104,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 105,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 106,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 107,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 108,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 109,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 110,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 111,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 112,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 113,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 114,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 115,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 116,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 117,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 118,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 119,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 120,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 121,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 122,
+            "currentPrice": 449
+        },
+        {
+            "barId": 4,
+            "productId": 123,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 124,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 125,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 126,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 127,
+            "currentPrice": 449
+        },
+        {
+            "barId": 4,
+            "productId": 128,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 129,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 130,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 131,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 132,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 133,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 134,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 135,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 136,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 137,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 138,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 139,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 140,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 141,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 142,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 143,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 144,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 145,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 146,
+            "currentPrice": 499
+        },
+        {
+            "barId": 4,
+            "productId": 147,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 148,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 149,
+            "currentPrice": 359
+        },
+        {
+            "barId": 4,
+            "productId": 150,
+            "currentPrice": 349
+        },
+        {
+            "barId": 4,
+            "productId": 151,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 152,
+            "currentPrice": 459
+        },
+        {
+            "barId": 4,
+            "productId": 153,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 154,
+            "currentPrice": 399
+        },
+        {
+            "barId": 4,
+            "productId": 155,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 156,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 157,
+            "currentPrice": 369
+        },
+        {
+            "barId": 4,
+            "productId": 158,
+            "currentPrice": 449
+        },
+        {
+            "barId": 4,
+            "productId": 159,
+            "currentPrice": 469
+        },
+        {
+            "barId": 4,
+            "productId": 160,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 121,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 122,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 123,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 124,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 125,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 126,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 127,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 128,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 129,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 130,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 131,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 132,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 133,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 134,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 135,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 136,
+            "currentPrice": 469
+        },
+        {
+            "barId": 5,
+            "productId": 137,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 138,
+            "currentPrice": 469
+        },
+        {
+            "barId": 5,
+            "productId": 139,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 140,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 141,
+            "currentPrice": 469
+        },
+        {
+            "barId": 5,
+            "productId": 142,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 143,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 144,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 145,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 146,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 147,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 148,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 149,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 150,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 151,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 152,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 153,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 154,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 155,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 156,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 157,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 158,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 159,
+            "currentPrice": 469
+        },
+        {
+            "barId": 5,
+            "productId": 160,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 161,
+            "currentPrice": 469
+        },
+        {
+            "barId": 5,
+            "productId": 162,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 163,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 164,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 165,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 166,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 167,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 168,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 169,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 170,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 171,
+            "currentPrice": 459
+        },
+        {
+            "barId": 5,
+            "productId": 172,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 173,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 174,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 175,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 176,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 177,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 178,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 179,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 180,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 181,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 182,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 183,
+            "currentPrice": 449
+        },
+        {
+            "barId": 5,
+            "productId": 184,
+            "currentPrice": 499
+        },
+        {
+            "barId": 5,
+            "productId": 185,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 186,
+            "currentPrice": 359
+        },
+        {
+            "barId": 5,
+            "productId": 187,
+            "currentPrice": 349
+        },
+        {
+            "barId": 5,
+            "productId": 188,
+            "currentPrice": 399
+        },
+        {
+            "barId": 5,
+            "productId": 189,
+            "currentPrice": 369
+        },
+        {
+            "barId": 5,
+            "productId": 190,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 151,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 152,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 153,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 154,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 155,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 156,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 157,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 158,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 159,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 160,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 161,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 162,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 163,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 164,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 165,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 166,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 167,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 168,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 169,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 170,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 171,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 172,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 173,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 174,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 175,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 176,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 177,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 178,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 179,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 180,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 181,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 182,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 183,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 184,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 185,
+            "currentPrice": 369
+        },
+        {
+            "barId": 6,
+            "productId": 186,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 187,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 188,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 189,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 190,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 191,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 192,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 193,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 194,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 195,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 196,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 197,
+            "currentPrice": 369
+        },
+        {
+            "barId": 6,
+            "productId": 198,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 199,
+            "currentPrice": 459
+        },
+        {
+            "barId": 6,
+            "productId": 200,
+            "currentPrice": 449
+        },
+        {
+            "barId": 6,
+            "productId": 201,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 202,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 203,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 204,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 205,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 206,
+            "currentPrice": 369
+        },
+        {
+            "barId": 6,
+            "productId": 207,
+            "currentPrice": 369
+        },
+        {
+            "barId": 6,
+            "productId": 208,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 209,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 210,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 211,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 212,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 213,
+            "currentPrice": 359
+        },
+        {
+            "barId": 6,
+            "productId": 214,
+            "currentPrice": 349
+        },
+        {
+            "barId": 6,
+            "productId": 215,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 216,
+            "currentPrice": 499
+        },
+        {
+            "barId": 6,
+            "productId": 217,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 218,
+            "currentPrice": 399
+        },
+        {
+            "barId": 6,
+            "productId": 219,
+            "currentPrice": 469
+        },
+        {
+            "barId": 6,
+            "productId": 220,
+            "currentPrice": 459
+        }
+    ]
+}
