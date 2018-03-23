@@ -3,8 +3,9 @@ import createRootReducer from './reducer';
 import thunk from 'redux-thunk';
 import createBarsAPIService from '../bars/api'
 import createDrinksAPIService from '../drinks/api'
+import reactiveEffectsEnhancer from './reactiveEffectsEnhancer'
 
-const enhancers = []
+const enhancers = [reactiveEffectsEnhancer()]
 const api = {
 	Bars: createBarsAPIService(),
 	Drinks: createDrinksAPIService()

@@ -2,10 +2,10 @@ import { combineReducers } from '../utils/reducers'
 import createBarsReducer from '../modules/bars/redux'
 import createDrinksReducer from '../modules/drinks/redux'
 
-function createRootReducer() {
+function createRootReducer(dependencies) {
 	return combineReducers({
-		bars: createBarsReducer(),
-		drinks: createDrinksReducer()
+		bars: createBarsReducer(dependencies),
+		drinks: createDrinksReducer(dependencies)
 	})
 }
 
